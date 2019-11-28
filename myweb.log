@@ -1,0 +1,5 @@
+2019-11-06 09:02:10.002  INFO 7288 --- [main] c.s.s.ShortmessagesendApplicationTests   : Starting ShortmessagesendApplicationTests on DESKTOP-KGK4V1A with PID 7288 (started by 18372 in E:\IdeaWorkSpace\shortmessagesend)
+2019-11-06 09:02:10.003  INFO 7288 --- [main] c.s.s.ShortmessagesendApplicationTests   : No active profile set, falling back to default profiles: default
+2019-11-06 09:02:10.929  INFO 7288 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-06 09:02:11.141  INFO 7288 --- [main] c.s.s.ShortmessagesendApplicationTests   : Started ShortmessagesendApplicationTests in 1.432 seconds (JVM running for 2.232)
+2019-11-06 09:02:11.400  INFO 7288 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

@@ -1,0 +1,11 @@
+server:
+  port: 10277
+  servlet:
+    context-path: /shortmessage
+
+
+#配置日志
+logging:
+    # 默认日志路径
+    file:
+      path: /springboot/shortMessageSend/logs
